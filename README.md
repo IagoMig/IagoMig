@@ -1,42 +1,49 @@
-# Iago Oliveira
-
-Desenvolvedor Full Stack
-
-📍 Vale do Paraíba — São Paulo, Brasil
-🎂 20 anos
-
-## Sobre mim
-
-Sou desenvolvedor full stack com foco na construção de aplicações web modernas, escaláveis e bem estruturadas.
-
-Minha última experiência profissional foi como **Desenvolvedor Full Stack na EG Mídia Digital**, onde atuei no desenvolvimento de sistemas web, integrações e interfaces modernas.
-
-## Stack principal
-
-**Frontend**
-
-* React
-* JavaScript
-* Tailwind CSS
-* HTML
-* CSS
-* TypeScript
-
-**Backend**
-
-* Node.js
-* Express
-
-**Banco de dados**
-
-* PostgreSQL
-* MySQL
-
-## Contato
-
-📧 Email: [iagom3008@icloud.com](mailto:iagom3008@icloud.com)
-📱 WhatsApp: 41 99109-1473
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Iago+Oliveira;Desenvolvedor+Full+Stack;Soluções+Scaláveis+e+Modernas" alt="Typing SVG" />
+</div>
 
 ---
 
-💻 Sempre trabalhando em novos projetos e aprimorando minhas habilidades em desenvolvimento web.
+### Perfil Profissional
+Desenvolvedor focado na construção de aplicações web de alta performance e interfaces bem estruturadas. Com experiência consolidada em ecossistemas JavaScript, atuei recentemente como **Full Stack na EG Mídia Digital**, entregando sistemas integrados e arquiteturas modernas.
+
+---
+
+### Tecnologias Principais
+
+<div align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</div>
+
+---
+
+### Performance e Métricas
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=true"/>
+</div>
+
+---
+
+### Contato Profissional
+
+<div align="left">
+  <strong>Localização:</strong> Vale do Paraíba, São Paulo <br />
+  <strong>E-mail:</strong> <a href="mailto:iagom3008@icloud.com">iagom3008@icloud.com</a> <br />
+  <strong>WhatsApp:</strong> <a href="https://wa.me/5541991091473">Clique aqui para conversar</a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer" />
+</div>

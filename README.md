@@ -25,13 +25,6 @@ Desenvolvedor focado na construção de aplicações web de alta performance e i
 
 ---
 
-### Performance e Métricas
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&title_color=ffffff&text_color=9f9f9f&hide_border=true"/>
-</div>
-
 ---
 
 ### Contato Profissional

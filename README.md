@@ -20,6 +20,7 @@ Minha última experiência profissional foi como **Desenvolvedor Full Stack na E
 * Tailwind CSS
 * HTML
 * CSS
+* TypeScript
 
 **Backend**
 
